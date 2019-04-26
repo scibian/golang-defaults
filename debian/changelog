@@ -1,3 +1,9 @@
+golang-defaults (2:1.11~1~bpo9+1sci9u1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Fri, 26 Apr 2019 14:10:42 +0200
+
 golang-defaults (2:1.11~1~bpo9+1) stretch-backports; urgency=medium
 
   * Rebuild for stretch-backports.
